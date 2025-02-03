@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @skeelzz007
-- 👀 I’m interested in design
-- 🌱 I’m currently learning ui/ux
-- 💞️ I’m looking to collaborate on possible chanllenges on ui/ux
+- 👀 I’m interested in design and development
+- 🌱 I’m currently learning react
+- 💞️ I’m looking to collaborate on possible chanllenges on ui/ux, framer, webflow and software development
 - 📫 How to reach me is via email (babskenny22@gmail.com)
 
 <!---
